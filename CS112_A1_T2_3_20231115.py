@@ -1,7 +1,3 @@
-# File: CS112_A1_T2_3_20231115
-# Purpose: Two players subtract perfect square numbers from a pile of coins; initial coins chosen by user or generated randomly. Players input valid perfect square numbers; game continues until a player subtracts the last coin and wins.
-# Author: Omar Mohamed Samir Soliman
-# ID: 20231115
 import random
 def get_positive_integer(prompt):
     while True:
